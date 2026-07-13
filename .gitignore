@@ -1,0 +1,15 @@
+# Build outputs
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+android/captures/
+*.apk
+*.aab
+
+# Keystore (never commit signing keys)
+*.jks
+*.keystore
+
+# OS files
+.DS_Store
